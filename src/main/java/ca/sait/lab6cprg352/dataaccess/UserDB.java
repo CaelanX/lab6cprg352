@@ -1,4 +1,4 @@
-package ca.sait.dataaccess;
+package ca.sait.lab6cprg352.dataaccess;
 
 import java.sql.Connection;
 import java.sql.PreparedStatement;
